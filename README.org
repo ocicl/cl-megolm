@@ -1,0 +1,10 @@
+* cl-megolm
+
+Usable wrapper over the Olm C bindings. 
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/K1D77A/cl-megolm.git   |
+| commit  | a4483af  |
+| systems | cl-megolm |
+|---------+-------------------------------------------|
+
